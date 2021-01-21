@@ -1,1 +1,1 @@
-Within this part I will try to create a program that can be useful to companies for keeping employee records and tracking job offers that has been sent out to candidates.
+Within this repo I will upload my Python course 2 homeworks.
